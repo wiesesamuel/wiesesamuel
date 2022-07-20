@@ -2,8 +2,7 @@
 
 I just moved here from BitBucket.  
 My main public project is my [photo portfolio](https://github.com/wiesesamuel/laravel_photography).  
-Take a look at the [demo](https://wiesesamuel.de).
-The most beautiful part lays in the backend :wink:
+You can take a look at the [demo](https://wiesesamuel.de). But all programmers know, that the most beautiful part lays in the [backend](https://github.com/wiesesamuel/laravel_photography). :wink:
 
 <!--
 **wiesesamuel/wiesesamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
